@@ -1,0 +1,1 @@
+"""Python file for emailing using Gmail account"""

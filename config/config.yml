@@ -1,0 +1,12 @@
+# All configuration related parameters lie here
+
+# Username and password
+username: "USERNAME"
+password: "PASSWORD"
+
+# sources
+message: "message.txt"    # Path to message file from the HTML directory (Global path is path_to_repo/html/<message.txt>)
+html: "cte.html"          # Path to the HTML file to be used from the HTML directory (Global path is path_to_repo/html/<cte.html>)
+csv: "names.csv"          # Path to csv file where the sources data is stored (Global path is path_to_repo/csvs/<names.csv>)
+log: "log1.log"           # Path to log file where the logs are to be stored (Global path is path_to_repo/logs/<log1.csv>)
+          
